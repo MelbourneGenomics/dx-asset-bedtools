@@ -1,0 +1,15 @@
+{
+  "name": "Bedtools",
+  "title": "Bedtools",
+  "description": "Bedtools",
+  "version": "2.26.0",
+  "distribution": "Ubuntu",
+  "instanceType": "mem1_ssd1_x2",
+  "release": "14.04",
+  "excludeResource": [
+    "/var",
+    "/dev",
+    "/dx*"
+  ],
+  "execDepends": []
+}
